@@ -1,6 +1,6 @@
 ## About me 
 
-I am a researcher at the <a href="https://www.linkedin.com/company/inet-tuberlin/">INET</a> research group at the Technical University of Berlin, Germany, working with <a href="https://schmiste.github.io/">Prof. Stefan Schmid</a>.
+I am a postdoctoral researcher at the <a href="https://www.linkedin.com/company/inet-tuberlin/">INET</a> research group at the Technical University of Berlin, Germany, working with <a href="https://schmiste.github.io/">Prof. Stefan Schmid</a>.
 
 Previously I was a researcher at the University of Vienna and completed research internships at IST Austria and CUHK Hong Kong. I got my B.Sc. from the Sharif University of Technology. I was also an associated researcher with <a href="https://plamadiso.weizenbaum-institut.de">PLAMADISO</a>
 research group at the <a href="https://www.weizenbaum-institut.de/en">Weizenbaum Institute</a> for the Networked Society.
